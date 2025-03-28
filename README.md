@@ -29,3 +29,7 @@ The dashboard uses multiple datasets, including:
 - Microsoft Power BI Desktop
 - Dataset files (ensure all tables are properly linked)
 
+## Screenshot Preview
+![image](https://github.com/user-attachments/assets/e0cf1073-9cbf-4530-826c-ea3754f0a412)
+
+
